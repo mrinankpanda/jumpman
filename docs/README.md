@@ -61,4 +61,4 @@ A simple side-scrolling Jumpman-style game for the Arduino Uno using a 16×2 LCD
 
 ## 📸 Demo
 
-<video controls src="IMG_2191.MOV" title="Title"></video>
+<video src="docs/IMG_2191.mp4" controls width="600"></video>
